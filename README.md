@@ -1,6 +1,6 @@
 ## Hi there 👋 I,m Shashintha
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shashintha24&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=shashintha24&show_icons=true&theme=gotham#gh-dark-mode-only" />
